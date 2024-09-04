@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm John Stirrat</h1>
-<h3 align="center">Finishing my BS in CS from Gonzaga University, interested in Software App Development</h3>
+<h3 align="center">BS in CS from Gonzaga University, interested in Software App Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jstirrat&label=Profile%20views&color=0e75b6&style=flat" alt="jstirrat" /> </p>
 
